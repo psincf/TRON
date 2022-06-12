@@ -1,0 +1,9 @@
+[package]
+name = "tron"
+version = "0.1.0"
+authors = ["_"]
+
+[dependencies]
+piston_window = "0.123.0"
+piston2d-opengl_graphics = "0.81.0"
+rand = "0.5.5"
